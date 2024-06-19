@@ -1,1 +1,1 @@
-# Weather-Checking-App
+# Weather-App
